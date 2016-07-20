@@ -1,0 +1,25 @@
+{
+  "name": "nodetogether-london",
+  "version": "1.0.0",
+  "description": "A node app made in NodeTogether",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herecomesjaycee/nodetogether-london.git"
+  },
+  "keywords": [
+    "NodeTogether"
+  ],
+  "author": "herecomesjaycee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herecomesjaycee/nodetogether-london/issues"
+  },
+  "homepage": "https://github.com/herecomesjaycee/nodetogether-london#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
